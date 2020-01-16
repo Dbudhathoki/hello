@@ -6,7 +6,15 @@ int main(void)
 {
 printf("Dinesh Budhathoki");
 printf("Computer Science");
+
+printf("Osama Al Sabahi");
+printf("Electrical Engineering");
 return 0;
+<<<<<<< HEAD
 printf("Dinesh Budhathoki");
 printf("Dinesh Budhathoki");
 }
+=======
+
+}
+>>>>>>> 5488c706cdae7c75bd96b5b8f6094cd961df650b
