@@ -7,5 +7,6 @@ int main(void)
 printf("Dinesh Budhathoki");
 printf("Computer Science");
 return 0;
-
+printf("Dinesh Budhathoki");
+printf("Dinesh Budhathoki");
 }
